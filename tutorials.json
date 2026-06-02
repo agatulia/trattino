@@ -1,0 +1,167 @@
+[
+  {
+    "id": "gattino-facile",
+    "title": "Disegniamo un gattino",
+    "category": "Animali",
+    "difficulty": "Facile",
+    "thumbnail": "assets/library/thumb-gatto.svg",
+    "description": "Costruiamo un gattino usando cerchi, triangoli e linee semplici.",
+    "steps": [
+      {
+        "title": "Disegna la testa",
+        "instruction": "Inizia con un cerchio grande. Le linee leggere ti aiutano a trovare il centro.",
+        "image": "assets/library/gatto-step-1.svg"
+      },
+      {
+        "title": "Aggiungi le orecchie",
+        "instruction": "Disegna due triangolini morbidi sopra la testa.",
+        "image": "assets/library/gatto-step-2.svg"
+      },
+      {
+        "title": "Disegna corpo e coda",
+        "instruction": "Aggiungi un ovale per il corpo e una linea curva per la coda.",
+        "image": "assets/library/gatto-step-3.svg"
+      },
+      {
+        "title": "Completa le zampine",
+        "instruction": "Disegna le zampine con piccole curve arrotondate.",
+        "image": "assets/library/gatto-step-4.svg"
+      },
+      {
+        "title": "Disegna il musetto",
+        "instruction": "Aggiungi occhi, nasino, bocca e baffi.",
+        "image": "assets/library/gatto-step-5.svg"
+      },
+      {
+        "title": "Ripassa il disegno",
+        "instruction": "Ripassa i contorni più importanti e cancella le linee guida.",
+        "image": "assets/library/gatto-step-6.svg"
+      }
+    ]
+  },
+  {
+    "id": "fiore-facile",
+    "title": "Un fiore allegro",
+    "category": "Fiori",
+    "difficulty": "Facile",
+    "thumbnail": "assets/library/thumb-fiore.svg",
+    "description": "Disegna un fiore partendo dal centro, poi aggiungi petali, gambo e foglie.",
+    "steps": [
+      {
+        "title": "Disegna il centro",
+        "instruction": "Inizia con un cerchio al centro del foglio.",
+        "image": "assets/library/fiore-step-1.svg"
+      },
+      {
+        "title": "Aggiungi quattro petali",
+        "instruction": "Disegna quattro ovali grandi attorno al centro.",
+        "image": "assets/library/fiore-step-2.svg"
+      },
+      {
+        "title": "Completa i petali",
+        "instruction": "Aggiungi altri quattro petali negli spazi rimasti.",
+        "image": "assets/library/fiore-step-3.svg"
+      },
+      {
+        "title": "Disegna il gambo",
+        "instruction": "Traccia una linea morbida verso il basso.",
+        "image": "assets/library/fiore-step-4.svg"
+      },
+      {
+        "title": "Aggiungi le foglie",
+        "instruction": "Disegna due foglie ai lati del gambo.",
+        "image": "assets/library/fiore-step-5.svg"
+      },
+      {
+        "title": "Ripassa e colora",
+        "instruction": "Ripassa i contorni e scegli i colori che preferisci.",
+        "image": "assets/library/fiore-step-6.svg"
+      }
+    ]
+  },
+  {
+    "id": "auto-facile",
+    "title": "Una piccola automobile",
+    "category": "Veicoli",
+    "difficulty": "Facile",
+    "thumbnail": "assets/library/thumb-auto.svg",
+    "description": "Costruisci una macchinina con rettangoli, curve e cerchi.",
+    "steps": [
+      {
+        "title": "Disegna la base",
+        "instruction": "Inizia con un rettangolo arrotondato per il corpo dell'auto.",
+        "image": "assets/library/auto-step-1.svg"
+      },
+      {
+        "title": "Aggiungi il tetto",
+        "instruction": "Disegna una forma curva sopra la base.",
+        "image": "assets/library/auto-step-2.svg"
+      },
+      {
+        "title": "Disegna i finestrini",
+        "instruction": "Dividi il tetto in due parti per creare i finestrini.",
+        "image": "assets/library/auto-step-3.svg"
+      },
+      {
+        "title": "Aggiungi le ruote",
+        "instruction": "Disegna due cerchi grandi e due cerchi più piccoli al centro.",
+        "image": "assets/library/auto-step-4.svg"
+      },
+      {
+        "title": "Inserisci i dettagli",
+        "instruction": "Aggiungi portiere, fari e piccoli particolari.",
+        "image": "assets/library/auto-step-5.svg"
+      },
+      {
+        "title": "Ripassa e colora",
+        "instruction": "Ripassa il contorno e colora la tua automobile.",
+        "image": "assets/library/auto-step-6.svg"
+      }
+    ]
+  },
+  {
+    "id": "dino-medio",
+    "title": "Dinosauro simpatico",
+    "category": "Personaggi",
+    "difficulty": "Medio",
+    "thumbnail": "assets/library/thumb-dino.svg",
+    "description": "Disegna un dinosauro sorridente un pezzo alla volta.",
+    "steps": [
+      {
+        "title": "Disegna il corpo",
+        "instruction": "Inizia con un grande ovale per il corpo.",
+        "image": "assets/library/dino-step-1.svg"
+      },
+      {
+        "title": "Aggiungi testa e collo",
+        "instruction": "Disegna un cerchio e collegalo dolcemente al corpo.",
+        "image": "assets/library/dino-step-2.svg"
+      },
+      {
+        "title": "Disegna la coda",
+        "instruction": "Aggiungi una coda lunga e curva.",
+        "image": "assets/library/dino-step-3.svg"
+      },
+      {
+        "title": "Completa le zampe",
+        "instruction": "Disegna due zampette semplici sotto il corpo.",
+        "image": "assets/library/dino-step-4.svg"
+      },
+      {
+        "title": "Aggiungi le punte",
+        "instruction": "Disegna piccole punte triangolari lungo la schiena.",
+        "image": "assets/library/dino-step-5.svg"
+      },
+      {
+        "title": "Disegna faccia e braccino",
+        "instruction": "Aggiungi l'occhio, il sorriso e un piccolo braccio.",
+        "image": "assets/library/dino-step-6.svg"
+      },
+      {
+        "title": "Ripassa e colora",
+        "instruction": "Ripassa il dinosauro e aggiungi i colori.",
+        "image": "assets/library/dino-step-7.svg"
+      }
+    ]
+  }
+]
